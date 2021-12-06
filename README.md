@@ -54,11 +54,33 @@ So the vehicle orientation dataset has a total of 15 classes of vehicles with or
 
 Annotations per class in the vehicle orientation dataset follows the long-tail distribution as commonly seen in other vehicle detection data sets.
 
+<img src="media/distribution.png" width="auto" height="auto">
+
 <!-- Download dataset -->
 ## Download Dataset
 
-
 The vehicle orientation dataset is hosted on AWS S3 (Asia-pacific, Tokyo) bucket. Since the overall size of the dataset is quite big (~100GB), we have split the vehicle orientation dataset into five parts for convenience of users. Part 1 to Part 4 together contain 200,000 images (50,000 x 4) and Part 5 has 13,714 images. <br>
+Please note that the annotations are provided in YOLO format style. There is a `.txt`-file for each `.jpg`-image-file - in the same directory and with the same name. Each line contains the class and bounding box coordinates for a vehicle in the image. If there are multiple vehicles in the image, the number of lines will increase accordingly.
+
+`<object-class> <x_center> <y_center> <width> <height>`
+
+where:
+
+- `<object-class>` - integer object number from `0` to `(classes-1)`. Mapping file can be downloaded from here: [Vehicle Orientation Classes](data/vehicle_orientation.names)
+- `<x_center> <y_center> <width> <height>` - float values **relative** to width and height of image, it can be equal from `(0.0 to 1.0]`
+- For example: `<x> = <absolute_x> / <image_width>` or `<height> = <absolute_height> / <image_height>`
+- Attention: `<x_center> <y_center>` - are center of rectangle (Not top-left corner)
+
+For example, for `SUG007M5MX5JAZGUI4EI.jpg` in vehicle-orientation-5 we have the corresponding annotation file `SUG007M5MX5JAZGUI4EI.txt` containing:
+
+  ```csv
+2 0.650000 0.573148 0.018750 0.027778
+6 0.864062 0.449537 0.265625 0.793519
+1 0.300000 0.581481 0.068750 0.051852
+0 0.558594 0.625463 0.110937 0.217593
+  ```
+The first column indicates the class. 2 in the first row means car_front, 6 in the second row is truck_back, and so on. Please check [Vehicle Orientation Classes](data/vehicle_orientation.names) file for all 15 classes.
+
 
 ### Download links
 
@@ -69,11 +91,7 @@ The vehicle orientation dataset is hosted on AWS S3 (Asia-pacific, Tokyo) bucket
 - [Part-5, 13,714 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-5.zip)
 
 
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 
 <!-- LICENSE -->
