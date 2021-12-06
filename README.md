@@ -79,16 +79,16 @@ We will update this section as soon as our paper is published online.
 <!-- ACKNOWLEDGMENTS -->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/sekilab/VehicleOrientationDataset
 [contributors-url]: https://github.com/sekilab/VehicleOrientationDataset/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/sekilab/VehicleOrientationDataset
 [forks-url]: https://github.com/sekilab/VehicleOrientationDataset/network/members
-[stars-shield]: https://img.shields.io/github/stars/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/sekilab/VehicleOrientationDataset
 [stars-url]: https://github.com/sekilab/VehicleOrientationDataset/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/sekilab/VehicleOrientationDataset
 [issues-url]: https://github.com/sekilab/VehicleOrientationDataset/issues
-[license-shield]: https://img.shields.io/github/license/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/sekilab/VehicleOrientationDataset
 [license-url]: https://github.com/sekilab/VehicleOrientationDataset/blob/main/LICENSE.txt
-[modified-shield]: https://img.shields.io/github/last-commit/sekilab/VehicleOrientationDataset/main.svg?style=for-the-badge
+[modified-shield]: https://img.shields.io/github/last-commit/sekilab/VehicleOrientationDataset/main
 [paper-url]: https://github.com/sekilab/VehicleOrientationDataset/commits/main
 [product-screenshot]: media/sample_annotations.png
