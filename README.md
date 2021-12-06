@@ -5,7 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Paper link][linkedin-shield]][paper-url]
+[![Paper link][modified-shield]][paper-url]
 
 
 
@@ -66,10 +66,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-For any question, support please write to the author here:
+For any question and support, please create an issue on GitHub or write to the author here:
 
 Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -90,6 +89,6 @@ We will update this section as soon as our paper is published online.
 [issues-url]: https://github.com/sekilab/VehicleOrientationDataset/issues
 [license-shield]: https://img.shields.io/github/license/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
 [license-url]: https://github.com/sekilab/VehicleOrientationDataset/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[paper-url]: #
+[modified-shield]: https://img.shields.io/github/last-commit/sekilab/VehicleOrientationDataset/main.svg?style=for-the-badge
+[paper-url]: https://github.com/sekilab/VehicleOrientationDataset/commits/main
 [product-screenshot]: media/sample_annotations.png
