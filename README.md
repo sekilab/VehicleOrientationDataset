@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sekilab/VehicleOrientationDataset">
-    <img src="media/logo.png" alt="Logo" width="80" height="80">
+    <img src="media/logo.png" alt="Logo"ß>
   </a>
 
   <h3 align="center">The Vehicle Orientation Dataset</h3>
