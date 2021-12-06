@@ -1,11 +1,11 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Paper link][modified-shield]][paper-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Paper link][modified-shield]][paper-url]
+
 
 
 
@@ -31,10 +31,32 @@
   </p>
 </div>
 
+## Annotations style
+
+<img src="media/sample_annotations.png" width="auto" height="auto">
+
+All vehicles in the vehicle orientation dataset are labeled with both vehicle class (five categories) and its orientation (three types).
+
+The five classes of vehicles are:
+- Car
+- Bus
+- Truck
+- Motorcycle
+- Bicycle
+
+The three types of orientations are:
+
+- Front
+- Back
+- Side
+
+So the vehicle orientation dataset has a total of 15 classes of vehicles with orientation such car_back, car_front, car_side, bus_back, bus_front, etc.
+
+Annotations per class in the vehicle orientation dataset follows the long-tail distribution as commonly seen in other vehicle detection data sets.
+
 <!-- Download dataset -->
 ## Download Dataset
 
-<img src="media/sample_annotations.png" width="auto" height="auto">
 
 The vehicle orientation dataset is hosted on AWS S3 (Asia-pacific, Tokyo) bucket. Since the overall size of the dataset is quite big (~100GB), we have split the vehicle orientation dataset into five parts for convenience of users. Part 1 to Part 4 together contain 200,000 images (50,000 x 4) and Part 5 has 13,714 images. <br>
 
