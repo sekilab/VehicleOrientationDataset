@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sekilab/VehicleOrientationDataset">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="media/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">The Vehicle Orientation Dataset</h3>
@@ -109,9 +109,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Citation
 
 
 
