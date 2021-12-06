@@ -90,15 +90,17 @@
 <!-- Download dataset -->
 ## Download Dataset
 
+<img src="media/sample_annotations.png" width="auto" height="auto">
+
 The vehicle orientation dataset is hosted on AWS S3 (Asia-pacific, Tokyo) bucket. Since the overall size of the dataset is quite big (~100GB), we have split the vehicle orientation dataset into five parts for convenience of users. Part 1 to Part 4 together contain 200,000 images (50,000 x 4) and Part 5 has 13,714 images. <br>
 
 ### Download links
 
-- [Part-1](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-1.zip)
-- [Part-2](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-2.zip)
-- [Part-3](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-3.zip)
-- [Part-4](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-4.zip)
-- [Part-5](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-5.zip)
+- [Part-1, 50,000 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-1.zip)
+- [Part-2, 50,000 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-2.zip)
+- [Part-3, 50,000 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-3.zip)
+- [Part-4, 50,000 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-4.zip)
+- [Part-5, 13,714 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-5.zip)
 
 
 
