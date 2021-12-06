@@ -36,7 +36,7 @@
   <h3 align="center">The Vehicle Orientation Dataset</h3>
 
   <p align="center">
-    The vehicle orientation dataset is contains more than one million annotation of vehicle with orientation in more than 200,000 images.
+    The vehicle orientation dataset contains more than one million annotations of vehicles with orientation in more than 200,000 images. It reduces the need of a secondary neural network to classify orientation by simultaneously providing both vehicle class and direction.
     <br />
     <a href="#"><strong>Read paper»</strong></a>
     <br />
@@ -128,7 +128,7 @@ Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 [issues-shield]: https://img.shields.io/github/issues/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
 [issues-url]: https://github.com/sekilab/VehicleOrientationDataset/issues
 [license-shield]: https://img.shields.io/github/license/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
-[license-url]: https://github.com/sekilab/VehicleOrientationDataset/blob/master/LICENSE
+[license-url]: https://github.com/sekilab/VehicleOrientationDataset/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: media/sample_annotations.png
