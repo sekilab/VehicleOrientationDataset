@@ -87,8 +87,21 @@
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- Download dataset -->
 ## Download Dataset
+
+The vehicle orientation dataset is hosted on AWS S3 (Asia-pacific, Tokyo) bucket. Since the overall size of the dataset is quite big (~100GB), we have split the vehicle orientation dataset into five parts for convenience of users. Part 1 to Part 4 together contain 200,000 images (50,000 x 4) and Part 5 has 13,714 images. <br>
+
+### Download links
+
+- [Part-1](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-1.zip)
+- [Part-2](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-2.zip)
+- [Part-3](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-3.zip)
+- [Part-4](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-4.zip)
+- [Part-5](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-5.zip)
+
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -107,13 +120,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
+For any question, support please write to the author here:
+
 Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Citation
-
+We will update this section as soon as our paper is published online.
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -130,5 +145,4 @@ Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 [license-shield]: https://img.shields.io/github/license/sekilab/VehicleOrientationDataset.svg?style=for-the-badge
 [license-url]: https://github.com/sekilab/VehicleOrientationDataset/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: media/sample_annotations.png
