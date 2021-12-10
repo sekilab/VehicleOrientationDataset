@@ -1,12 +1,12 @@
 ## Experiment Data
 
-<img src="media/trajectory.png" width="auto" height="auto">
-
 - Experiment videos with GPS of five observers is made publicly available and hosted on AWS S3 (Asia-Pacific, Tokyo) bucket.
 
 - All observers' video and GPS are provided separately for convenience.
 
 - You require some processing on how to associate GPS logs to the video files. All video files have timestamp laid on top for verification. 
+
+<p align="center"><img src="media/trajectory.png" width="60%" height="auto"></p>
 
 ## Download links
 
@@ -30,4 +30,4 @@
 
 ## Citation
 
-- We will update this section as soon as our paper is published online.
+We will update this section as soon as our paper is published online.
