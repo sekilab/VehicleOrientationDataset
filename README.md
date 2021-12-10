@@ -31,9 +31,9 @@
   </p>
 </div>
 
-## Annotations style
+## Annotation style
 
-<img src="media/sample_annotations.png" width="60%" height="auto">
+<p align="center"><img src="media/sample_annotations.png" width="60%" height="auto"></p>
 
 All vehicles in the vehicle orientation dataset are labeled with both `vehicle class` (five categories) and its `orientation` (three types).
 
@@ -54,7 +54,7 @@ So the vehicle orientation dataset has a total of 15 classes of vehicles with or
 
 Annotations per class in the vehicle orientation dataset follows the long-tail distribution as commonly seen in other vehicle detection data sets.
 
-<img src="media/distribution.png" width="60%" height="auto">
+<p align="center"><img src="media/distribution.png" width="60%" height="auto"></p>
 
 <div id="dataset"></div>
 <!-- Download dataset -->
