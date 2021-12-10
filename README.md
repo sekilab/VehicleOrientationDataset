@@ -95,7 +95,6 @@ The first column represents the class such as `car_front`, `car_back`, etc. `2` 
 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
@@ -103,7 +102,7 @@ The first column represents the class such as `car_front`, `car_back`, etc. `2` 
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -114,11 +113,12 @@ For any question and support, please create an issue on GitHub or write to the a
 
 Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 ## Citation
 We will update this section as soon as our paper is published online.
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- MARKDOWN LINKS & IMAGES -->
