@@ -35,7 +35,7 @@
 
 <img src="media/sample_annotations.png" width="auto" height="auto">
 
-All vehicles in the vehicle orientation dataset are labeled with both vehicle class (five categories) and its orientation (three types).
+All vehicles in the vehicle orientation dataset are labeled with both `vehicle class` (five categories) and its `orientation` (three types).
 
 The five classes of vehicles are:
 - Car
@@ -50,7 +50,7 @@ The three types of orientations are:
 - Back
 - Side
 
-So the vehicle orientation dataset has a total of 15 classes of vehicles with orientation such car_back, car_front, car_side, bus_back, bus_front, etc.
+So the vehicle orientation dataset has a total of 15 classes of vehicles with orientation such `car_back`, `car_front`, `car_side`, `bus_back`, `bus_front`, etc.
 
 Annotations per class in the vehicle orientation dataset follows the long-tail distribution as commonly seen in other vehicle detection data sets.
 
@@ -61,8 +61,8 @@ Annotations per class in the vehicle orientation dataset follows the long-tail d
 
 ## Download Dataset
 
-The vehicle orientation dataset is hosted on AWS S3 (Asia-pacific, Tokyo) bucket. Since the overall size of the dataset is quite big (~100GB), we have split the vehicle orientation dataset into five parts for convenience of users. Part 1 to Part 4 together contain 200,000 images (50,000 x 4) and Part 5 has 13,714 images. <br>
-Please note that the annotations are provided in YOLO format style ([darknet](https://github.com/AlexeyAB/darknet)). There is a `.txt`-file for each `.jpg`-image-file - in the same directory and with the same name. Each line contains the class and bounding box coordinates for a vehicle in the image. If there are multiple vehicles in the image, the number of lines will increase accordingly.
+The vehicle orientation dataset is hosted on AWS S3 (Asia-pacific, Tokyo) bucket. Since the overall size of the dataset is quite big (~100GB), we have split the vehicle orientation dataset into five parts for convenience of users. Part 1 to Part 4 together contain `200,000 images` (50,000 x 4) and Part 5 has `13,714 images`. <br>
+Please note that the annotations are provided in `YOLO` format style ([darknet](https://github.com/AlexeyAB/darknet)). There is a `.txt`-file for each `.jpg`-image-file - in the same directory and with the same name. Each line contains the class and bounding box coordinates for a vehicle in the image. If there are multiple vehicles in the image, the number of lines will increase accordingly.
 
 `<object-class> <x_center> <y_center> <width> <height>`
 
@@ -81,7 +81,7 @@ For example, for `SUG007M5MX5JAZGUI4EI.jpg` in vehicle-orientation-5 we have the
 1 0.300000 0.581481 0.068750 0.051852
 0 0.558594 0.625463 0.110937 0.217593
   ```
-The first column indicates the class. 2 in the first row means car_front, 6 in the second row is truck_back, and so on. Please check [Vehicle Orientation Classes](data/vehicle_orientation.names) file for all 15 classes.
+The first column represents the class such as `car_front`, `car_back`, etc. `2` in the first row means car_front, `6` in the second row is truck_back, and so on. Please check [Vehicle Orientation Classes](data/vehicle_orientation.names) file for all 15 classes.
 
 
 ### Download links
