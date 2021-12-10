@@ -62,7 +62,7 @@ Annotations per class in the vehicle orientation dataset follows the long-tail d
 ## Download Dataset
 
 The vehicle orientation dataset is hosted on AWS S3 (Asia-pacific, Tokyo) bucket. Since the overall size of the dataset is quite big (~100GB), we have split the vehicle orientation dataset into five parts for convenience of users. Part 1 to Part 4 together contain 200,000 images (50,000 x 4) and Part 5 has 13,714 images. <br>
-Please note that the annotations are provided in YOLO format style. There is a `.txt`-file for each `.jpg`-image-file - in the same directory and with the same name. Each line contains the class and bounding box coordinates for a vehicle in the image. If there are multiple vehicles in the image, the number of lines will increase accordingly.
+Please note that the annotations are provided in YOLO format style [darknet](https://github.com/AlexeyAB/darknet). There is a `.txt`-file for each `.jpg`-image-file - in the same directory and with the same name. Each line contains the class and bounding box coordinates for a vehicle in the image. If there are multiple vehicles in the image, the number of lines will increase accordingly.
 
 `<object-class> <x_center> <y_center> <width> <height>`
 
