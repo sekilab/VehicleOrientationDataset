@@ -21,7 +21,7 @@
   <p align="center">
     The vehicle orientation dataset contains more than one million annotations of vehicles with orientation in more than 200,000 images. It reduces the need of a secondary neural network to classify orientation by simultaneously providing both vehicle class and direction.
     <br />
-    <a href="#"><strong>Read paper»</strong></a>
+    <a href="https://bigdataieee.org/BigData2021/AcceptedPapers.html"><strong>Read paper»</strong></a>
     <br />
     <br />
     ·
