@@ -21,7 +21,7 @@
   <p align="center">
     The vehicle orientation dataset contains more than one million annotations of vehicles with orientation in more than 200,000 images. It reduces the need of a secondary neural network to classify orientation by simultaneously providing both vehicle class and direction.
     <br />
-    <a href="https://bigdataieee.org/BigData2021/AcceptedPapers.html"><strong>Read paper»</strong></a>
+    <a href="http://dx.doi.org/10.1109/BigData52589.2021.9671751"><strong>Read paper»</strong></a>
     <br />
     <br />
     ·
@@ -116,8 +116,16 @@ Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 
 
 ## Citation
-We will update this section as soon as our paper is published online.
-
+```csv
+@inproceedings{kumar2021citywide,
+  title={Citywide reconstruction of cross-sectional traffic flow from moving camera videos},
+  author={Kumar, Ashutosh and Kashiyama, Takehiro and Maeda, Hiroya and Sekimoto, Yoshihide},
+  booktitle={2021 IEEE International Conference on Big Data (Big Data)},
+  pages={1670--1678},
+  year={2021},
+  organization={IEEE}
+}
+```
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
