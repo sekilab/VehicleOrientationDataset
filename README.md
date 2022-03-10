@@ -31,7 +31,8 @@
     
   </p>
 </div>
-## Trained models (To be updated after March 15th, 2022)
+
+## Trained models: To be updated after March 15th, 2022
  - YOLOv4 trained model on augmented vehicle orientation dataset containing more than six million images.
  - YOLOv4 trained model on withoug pixel level augmentation.
  - Several state-of-the-art object-detection neural networks model will be uploaded soon.
