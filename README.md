@@ -34,7 +34,7 @@
 
 ## Trained models: To be updated after March 15th, 2022
  - YOLOv4 trained model on augmented vehicle orientation dataset containing more than six million images.
- - YOLOv4 trained model on withoug pixel level augmentation.
+ - YOLOv4 trained model on without pixel level augmentation.
  - Several state-of-the-art object-detection neural networks model will be uploaded soon.
  - A new synthetic vehicle orientation dataset prepared in CARLA driving simulator and models.
 
