@@ -32,7 +32,7 @@
   </p>
 </div>
 
-https://github.com/sekilab/VehicleOrientationDataset/blob/main/media/demo.gif
+![me](https://github.com/sekilab/VehicleOrientationDataset/blob/main/media/demo.gif)
 
 ## Trained models: To be updated after March 15th, 2022
  - YOLOv4 trained model on augmented vehicle orientation dataset containing more than six million images.
