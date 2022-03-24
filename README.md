@@ -32,7 +32,7 @@
   </p>
 </div>
 
-<video src='https://www.dropbox.com/s/1672sxlmy46rmyj/sample_det_720p.mp4?raw=1' width=180/>
+<video src='https://www.dropbox.com/s/1672sxlmy46rmyj/sample_det_720p.mp4?raw=1' width=180/></video>
 
 ## Trained models: To be updated after March 15th, 2022
  - YOLOv4 trained model on augmented vehicle orientation dataset containing more than six million images.
