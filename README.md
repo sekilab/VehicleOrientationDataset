@@ -37,9 +37,9 @@
 
 ## Pre-trained weights
 
-|Model |Size<br><sup>(pixels) | Dataset | Download weights
-|--- |---  |---  |--- 
-|YOLOv4  |608x608  |Vehicle Orientation Dataset  |[YOLOv4-pretrained](https://drive.google.com/drive/folders/1hPT3pNHOdmU5s7bt3peUVjfWmBqbu8u7?usp=sharing) 
+|Model |Size | Dataset | Framework | Download weights
+|--- |---  |---  |--- |--- 
+|YOLOv4  |608x608  |Vehicle Orientation Dataset  |[darknet](https://github.com/AlexeyAB/darknet) |[YOLOv4-pretrained](https://drive.google.com/drive/folders/1hPT3pNHOdmU5s7bt3peUVjfWmBqbu8u7?usp=sharing) 
 
 
 ## Annotation style
