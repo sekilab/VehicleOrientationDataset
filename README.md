@@ -34,6 +34,12 @@
 
 ![me](https://github.com/sekilab/VehicleOrientationDataset/blob/main/media/demo.gif)
 
+
+|Model |Size<br><sup>(pixels) | Dataset | Download weights
+|--- |---  |---  |--- 
+|YOLOv4  |608x608  |Vehicle Orientation Dataset  |[YOLOv4-pretrained](https://drive.google.com/drive/folders/1hPT3pNHOdmU5s7bt3peUVjfWmBqbu8u7?usp=sharing) 
+
+
 ## Trained models: To be updated after March 15th, 2022
  - YOLOv4 trained model on augmented vehicle orientation dataset containing more than six million images.
  - YOLOv4 trained model on without pixel level augmentation.
