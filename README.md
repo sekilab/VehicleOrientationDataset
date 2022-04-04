@@ -36,6 +36,7 @@
 
 
 ## Pre-trained weights
+We'll continue adding various object detection models trained on the vehicle orientation dataset and the synthetic vehicle orientation dataset. Open an issue if you need some specific pre-trained weights.
 
 |Model |Size | Dataset | Framework | Download weights
 |--- |---  |---  |--- |--- 
