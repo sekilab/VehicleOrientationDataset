@@ -30,4 +30,13 @@
 
 ## Citation
 
-We will update this section as soon as our paper is published online.
+```csv
+@inproceedings{kumar2021citywide,
+  title={Citywide reconstruction of cross-sectional traffic flow from moving camera videos},
+  author={Kumar, Ashutosh and Kashiyama, Takehiro and Maeda, Hiroya and Sekimoto, Yoshihide},
+  booktitle={2021 IEEE International Conference on Big Data (Big Data)},
+  pages={1670--1678},
+  year={2021},
+  organization={IEEE}
+}
+```
