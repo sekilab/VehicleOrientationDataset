@@ -32,7 +32,7 @@
   </p>
 </div>
 
-![me](https://github.com/sekilab/VehicleOrientationDataset/blob/main/media/demo.gif)
+<!-- ![me](https://github.com/sekilab/VehicleOrientationDataset/blob/main/media/demo.gif) -->
 
 
 ## Pre-trained weights
