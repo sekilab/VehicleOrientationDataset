@@ -33,15 +33,34 @@
 </div>
 
 <!-- ![me](https://github.com/sekilab/VehicleOrientationDataset/blob/main/media/demo.gif) -->
-## Updates
+## Latest Updates
+<div align="center">
+<h3 style="align=center;">IEEE BigData Cup Challenge 2022</h3>
+<a href="https://bigdataieee.org/BigData2022/BigDataCupChallenges.html">Vehicle class and Orientation Detection Challenge 2022</a>
+</div>
 
-### IEEE BigData Cup Challenge 2022
-#### [Vehicle class and Orientation Detection Challenge 2022](https://bigdataieee.org/BigData2022/BigDataCupChallenges.html)
 
-We are organizing IEEE BigData Cup Challenge on "Vehicle class and orientation detection in the real-world using synthetic images from driving simulators". Participate to win cash prizes and free registration to attend IEEE BigData Cup 2022 conference this year to be held in Osaka, Japan. 
+We are organizing IEEE BigData Cup Challenge on "Vehicle class and orientation detection in the real-world using synthetic images from driving simulators." Participate to win cash prizes and free registration to attend the IEEE BigData Cup 2022 conference this year in Osaka, Japan.  
 
-Training dataset (train-1): [train-1](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
-Test dataset (test-1): [test-1](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
+- Training dataset (train-1): [train-1](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
+- Test dataset (test-1): [test-1](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
+
+The distribution of annotations in the training dataset (train-1) is as shown below:
+
+|Class |Number of annotations 
+|--- |---  
+|car_front | 21827
+|car_back | 28483
+|car_side | 8187
+|truck_front | 1723
+|truck_back | 2409
+|truck_side | 1220
+|motorcycle_front | 468
+|motorcycle_back | 1206
+|motorcycle_side | 2198
+|cycle_front | 307
+|cycle_back | 1078
+|cycle_side | 1576
 
 
 ## Pre-trained weights
