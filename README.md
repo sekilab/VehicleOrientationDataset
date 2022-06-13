@@ -42,8 +42,8 @@
 
 We are organizing IEEE BigData Cup Challenge on "Vehicle class and orientation detection in the real-world using synthetic images from driving simulators." Participate to win cash prizes and free registration to attend the IEEE BigData Cup 2022 conference this year in Osaka, Japan.  
 
-- Training dataset (train-1): [train-1](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
-- Test dataset (test-1): [test-1](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
+- Training dataset (train-1): [train-1](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/training-1.zip)
+- Test dataset (test-1): [test-1](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
 
 The distribution of annotations in the training dataset (train-1) is as shown below:
 
