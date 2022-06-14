@@ -63,13 +63,17 @@ The distribution of annotations in the training dataset (train-1) is as shown be
 |cycle_side | 1576
 
 
+
 ## Pre-trained weights
 We'll continue adding various object detection models trained on the vehicle orientation dataset and the synthetic vehicle orientation dataset. Open an issue if you need some specific pre-trained weights.
 
-|Model |Size | Dataset | Framework | Download weights
+|Framework/Network |Size | Dataset | Model | Download weights
 |--- |---  |---  |--- |--- 
-|YOLOv4  |608x608  |Vehicle Orientation Dataset  |[darknet](https://github.com/AlexeyAB/darknet) |[YOLOv4-pretrained](https://drive.google.com/drive/folders/1hPT3pNHOdmU5s7bt3peUVjfWmBqbu8u7?usp=sharing) 
-
+|[YOLOv4 (darknet)](https://github.com/AlexeyAB/darknet)  |608x608  |Vehicle Orientation Dataset  | [YOLOv4](https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4.cfg) |[YOLOv4 weights](https://drive.google.com/drive/folders/1hPT3pNHOdmU5s7bt3peUVjfWmBqbu8u7?usp=sharing) 
+|[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |640x640  |Vehicle Orientation Dataset  |[YOLOv5l](https://github.com/ultralytics/yolov5/releases) |[YOLOv5l weights](https://drive.google.com/drive/folders/1AGDb00T1quJw3crmLk7263nehC8KoFMf?usp=sharing)
+|[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |640x640  |Vehicle Orientation Dataset  |[YOLOv5x](https://github.com/ultralytics/yolov5/releases) |[YOLOv5x weights](https://drive.google.com/drive/folders/1bK-PEEO8x3Krf_-3sJ67jubw1jy4X8SK?usp=sharing)
+|[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |640x640  |Vehicle Orientation Dataset  |[YOLOv5x6](https://github.com/ultralytics/yolov5/releases) |[YOLOv5x6 weights](https://drive.google.com/drive/folders/1VkKwxuK8DOx7EsH9ZD5z_-nThg8BMyFE?usp=sharing) 
+|[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |640x640  |Vehicle Orientation Dataset  |[YOLOv5l6](https://github.com/ultralytics/yolov5/releases) |[YOLOv5l6 weights](https://drive.google.com/drive/folders/15yMkshU92AMlK2W7W5df9OEbZo6ooUKi?usp=sharing) 
 
 ## Annotation style
 
