@@ -72,8 +72,8 @@ We'll continue adding various object detection models trained on the vehicle ori
 |[YOLOv4 (darknet)](https://github.com/AlexeyAB/darknet)  |608x608  |Vehicle Orientation Dataset  | [YOLOv4](https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4.cfg) |[YOLOv4 weights](https://drive.google.com/drive/folders/1hPT3pNHOdmU5s7bt3peUVjfWmBqbu8u7?usp=sharing) 
 |[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |640x640  |Vehicle Orientation Dataset  |[YOLOv5l](https://github.com/ultralytics/yolov5/releases) |[YOLOv5l weights](https://drive.google.com/drive/folders/1AGDb00T1quJw3crmLk7263nehC8KoFMf?usp=sharing)
 |[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |640x640  |Vehicle Orientation Dataset  |[YOLOv5x](https://github.com/ultralytics/yolov5/releases) |[YOLOv5x weights](https://drive.google.com/drive/folders/1bK-PEEO8x3Krf_-3sJ67jubw1jy4X8SK?usp=sharing)
-|[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |640x640  |Vehicle Orientation Dataset  |[YOLOv5x6](https://github.com/ultralytics/yolov5/releases) |[YOLOv5x6 weights](https://drive.google.com/drive/folders/1VkKwxuK8DOx7EsH9ZD5z_-nThg8BMyFE?usp=sharing) 
-|[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |640x640  |Vehicle Orientation Dataset  |[YOLOv5l6](https://github.com/ultralytics/yolov5/releases) |[YOLOv5l6 weights](https://drive.google.com/drive/folders/15yMkshU92AMlK2W7W5df9OEbZo6ooUKi?usp=sharing) 
+|[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |1280x1280  |Vehicle Orientation Dataset  |[YOLOv5x6](https://github.com/ultralytics/yolov5/releases) |[YOLOv5x6 weights](https://drive.google.com/drive/folders/1VkKwxuK8DOx7EsH9ZD5z_-nThg8BMyFE?usp=sharing) 
+|[YOLOv5 (Ultralytics)](https://github.com/ultralytics/yolov5)  |1280x1280  |Vehicle Orientation Dataset  |[YOLOv5l6](https://github.com/ultralytics/yolov5/releases) |[YOLOv5l6 weights](https://drive.google.com/drive/folders/15yMkshU92AMlK2W7W5df9OEbZo6ooUKi?usp=sharing) 
 
 ## Annotation style
 
