@@ -162,6 +162,17 @@ Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 
 ## Citation
 ```csv
+@article{kumar2022real,
+  title={Real-time citywide reconstruction of traffic flow from moving cameras on lightweight edge devices},
+  author={Kumar, Ashutosh and Kashiyama, Takehiro and Maeda, Hiroya and Omata, Hiroshi and Sekimoto, Yoshihide},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={192},
+  pages={115--129},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+```csv
 @inproceedings{kumar2021citywide,
   title={Citywide reconstruction of cross-sectional traffic flow from moving camera videos},
   author={Kumar, Ashutosh and Kashiyama, Takehiro and Maeda, Hiroya and Sekimoto, Yoshihide},
