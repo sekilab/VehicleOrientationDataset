@@ -25,14 +25,12 @@
     <br />
     <a href="https://dx.doi.org/10.1109/BigData52589.2021.9671751"><strong>Citywide reconstruction of cross-sectional traffic flow from moving camera videos»</strong></a>
     
-    <br />
-    <br />
-    ·
-    <a href="#dataset">Download Vehicle Orientation Dataset</a>
-    ·
-    <a href="Experiment.md">Download Experiment Dataset (Video and GPS)</a>
-    
   </p>
+  
+</br> 
+    <a href="#dataset">Download Vehicle Orientation Dataset</a>
+    </br> 
+    <a href="Experiment.md">Download Experiment Dataset (Video and GPS)</a>
 </div>
 
 <!-- ![me](https://github.com/sekilab/VehicleOrientationDataset/blob/main/media/demo.gif) -->
@@ -163,7 +161,7 @@ Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 
 
 
-## Citation
+## Citations
 ```csv
 @article{kumar2022real,
   title={Real-time citywide reconstruction of traffic flow from moving cameras on lightweight edge devices},
