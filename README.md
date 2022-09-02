@@ -46,6 +46,7 @@ We are organizing IEEE BigData Cup Challenge on "Vehicle class and orientation d
 - Training dataset (train-1): [train-1](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/training-1.zip)
 - Training dataset (train-2): [train-2](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/training-2.zip)
 - Test dataset (test-1): [test-1](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
+- Test dataset (test-1): [test-2](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v2.zip)
 
 The distribution of annotations in the training dataset (train-1 and train-2) is as shown below:
 
