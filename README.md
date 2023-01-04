@@ -154,9 +154,7 @@ Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
 }
 ```
 
-## Archive
-
-## Latest Updates
+## Latest Updates (Archived)
 <div align="center">
 <h3 style="align=center;">IEEE BigData Cup Challenge 2022</h3>
 <a href="https://bigdataieee.org/BigData2022/BigDataCupChallenges.html">Vehicle class and Orientation Detection Challenge 2022</a>
