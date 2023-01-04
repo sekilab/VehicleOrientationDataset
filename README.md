@@ -34,37 +34,6 @@
 </div>
 
 <!-- ![me](https://github.com/sekilab/VehicleOrientationDataset/blob/main/media/demo.gif) -->
-## Latest Updates
-<div align="center">
-<h3 style="align=center;">IEEE BigData Cup Challenge 2022</h3>
-<a href="https://bigdataieee.org/BigData2022/BigDataCupChallenges.html">Vehicle class and Orientation Detection Challenge 2022</a>
-</div>
-
-
-We are organizing IEEE BigData Cup Challenge on "Vehicle class and orientation detection in the real-world using synthetic images from driving simulators." Participate to win cash prizes and free registration to attend the IEEE BigData Cup 2022 conference this year in Osaka, Japan.  
-
-- Training dataset (train-1): [train-1](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/training-1.zip)
-- Training dataset (train-2): [train-2](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/training-2.zip)
-- Test dataset (test-1): [test-1](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
-- Test dataset (test-1): [test-2](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v2.zip)
-
-The distribution of annotations in the training dataset (train-1 and train-2) is as shown below:
-
-|Class |Number of annotations 
-|--- |---  
-|car_front | 42273
-|car_back | 35017
-|car_side | 13131
-|truck_front | 1995
-|truck_back | 2667
-|truck_side | 1220
-|motorcycle_front | 770
-|motorcycle_back | 1476
-|motorcycle_side | 2614
-|cycle_front | 498
-|cycle_back | 1284
-|cycle_side | 1881
-
 
 
 ## Pre-trained weights
@@ -184,6 +153,40 @@ Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
   organization={IEEE}
 }
 ```
+
+## Archive
+
+## Latest Updates
+<div align="center">
+<h3 style="align=center;">IEEE BigData Cup Challenge 2022</h3>
+<a href="https://bigdataieee.org/BigData2022/BigDataCupChallenges.html">Vehicle class and Orientation Detection Challenge 2022</a>
+</div>
+
+
+We are organizing IEEE BigData Cup Challenge on "Vehicle class and orientation detection in the real-world using synthetic images from driving simulators." Participate to win cash prizes and free registration to attend the IEEE BigData Cup 2022 conference this year in Osaka, Japan.  
+
+- Training dataset (train-1): [train-1](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/training-1.zip)
+- Training dataset (train-2): [train-2](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/training-2.zip)
+- Test dataset (test-1): [test-1](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v1.zip)
+- Test dataset (test-1): [test-2](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/VOD22/test_v2.zip)
+
+The distribution of annotations in the training dataset (train-1 and train-2) is as shown below:
+
+|Class |Number of annotations 
+|--- |---  
+|car_front | 42273
+|car_back | 35017
+|car_side | 13131
+|truck_front | 1995
+|truck_back | 2667
+|truck_side | 1220
+|motorcycle_front | 770
+|motorcycle_back | 1476
+|motorcycle_side | 2614
+|cycle_front | 498
+|cycle_back | 1284
+|cycle_side | 1881
+
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
