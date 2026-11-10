@@ -102,13 +102,11 @@ The first column represents the class such as `car_front`, `car_back`, etc. `2` 
 
 ### Download links
 
-- [Part-1, 50,000 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-1.zip)
-- [Part-2, 50,000 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-2.zip)
-- [Part-3, 50,000 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-3.zip)
-- [Part-4, 50,000 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-4.zip)
-- [Part-5, 13,714 images](https://sekilab-students.s3.ap-northeast-1.amazonaws.com/2021/vehicle-orientation-dataset/vehicle-orientation-5.zip)
-
-
+- [Part-1, 50,000 images](https://sekilab-students.s3ds.mdx.jp/2021/vehicle-orientation-dataset/vehicle-orientation-1.zip)
+- [Part-2, 50,000 images](https://sekilab-students.s3ds.mdx.jp/2021/vehicle-orientation-dataset/vehicle-orientation-2.zip)
+- [Part-3, 50,000 images](https://sekilab-students.s3ds.mdx.jp/2021/vehicle-orientation-dataset/vehicle-orientation-3.zip)
+- [Part-4, 50,000 images](https://sekilab-students.s3ds.mdx.jp/2021/vehicle-orientation-dataset/vehicle-orientation-4.zip)
+- [Part-5, 13,714 images](https://sekilab-students.s3ds.mdx.jp/2021/vehicle-orientation-dataset/vehicle-orientation-5.zip)
 
 
 
